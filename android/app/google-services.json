@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1010142713571",
+    "project_id": "robocon-2023",
+    "storage_bucket": "robocon-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010142713571:android:b6fb960085e7b579fb57d6",
+        "android_client_info": {
+          "package_name": "com.fsm.robocon_admin_2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010142713571-4s6mvfcd6isv96ctek2s7vkmju7qp85a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh-HD5n3OJAvnAcwqYLn5mRYD2S1QAqeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010142713571-4s6mvfcd6isv96ctek2s7vkmju7qp85a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010142713571-cr54db7in2ivuggpc943an60e7riclfk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fsm.roboconUser2023"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010142713571:android:7383050bbc458e38fb57d6",
+        "android_client_info": {
+          "package_name": "com.fsm.robocon_user_2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010142713571-4s6mvfcd6isv96ctek2s7vkmju7qp85a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh-HD5n3OJAvnAcwqYLn5mRYD2S1QAqeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010142713571-4s6mvfcd6isv96ctek2s7vkmju7qp85a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010142713571-cr54db7in2ivuggpc943an60e7riclfk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fsm.roboconUser2023"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
